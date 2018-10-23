@@ -1,0 +1,10 @@
+#!/bin/bash
+# start with bash to run the rest of the script
+# you can change bash to python/excel or any word
+sum=0
+# this is my comment 
+for arg in $@
+do 
+	sum=$((arg +sum))
+done
+echo $sum
