@@ -1,5 +1,6 @@
 #!/bin/bash
 # start with bash to run the rest of the script
+# Author: Michelle:
 # you can change bash to python/excel or any word
 sum=0
 # this is my comment 
